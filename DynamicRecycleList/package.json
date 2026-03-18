@@ -1,0 +1,11 @@
+{
+    "name": "com.dynamicrecyclelist.runtime",
+    "displayName": "DynamicRecycleList",
+    "version": "0.0.1",
+    "unity": "2022.3",
+    "description": "一个基于坐标偏移实现的UGUI循环列表",
+    "keywords": ["dynamicrecyclelist"],
+    "category": "RecycleList",
+    "dependencies": {
+    }
+}
